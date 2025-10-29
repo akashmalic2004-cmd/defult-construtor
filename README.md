@@ -1,0 +1,2 @@
+# defult-construtor
+opition
